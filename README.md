@@ -1,0 +1,5 @@
+![alt text](https://github.com/hilyyu12/Android_RecycleView2/blob/master/Screenshot%20(149).png)
+![alt text](https://github.com/hilyyu12/Android_RecycleView2/blob/master/Screenshot%20(150).png)
+![alt text](https://github.com/hilyyu12/Android_RecycleView2/blob/master/Screenshot%20(151).png)
+![alt text](https://github.com/hilyyu12/Android_RecycleView2/blob/master/Screenshot%20(152).png)
+![alt text](https://github.com/hilyyu12/Android_RecycleView2/blob/master/Screenshot_2019-03-13-21-12-20-714_smktelkom.hilyyu26.recycleview2.png)
